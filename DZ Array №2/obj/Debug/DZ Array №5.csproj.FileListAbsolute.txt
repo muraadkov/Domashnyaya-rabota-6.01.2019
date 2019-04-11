@@ -1,0 +1,6 @@
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\bin\Debug\DZ Array №5.exe.config
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\bin\Debug\DZ Array №5.exe
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\bin\Debug\DZ Array №5.pdb
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\obj\Debug\DZ Array №5.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\obj\Debug\DZ Array №5.exe
+C:\Users\murka\source\repos\DZ Array\DZ Array №5\obj\Debug\DZ Array №5.pdb
